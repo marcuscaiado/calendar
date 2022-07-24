@@ -1,3 +1,3 @@
 # calendar
 
-CSS and JS Year Calendar
+Year Calendar
